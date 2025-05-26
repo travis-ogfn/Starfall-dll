@@ -7,3 +7,5 @@ If you want the link to the gitub for starfall.dll here it is **https://github.c
 
 
 Or just use cobalt link is here **https://github.com/travis-ogfn/Cobalt-dll/releases/download/Cobalt/Cobalt.dll**
+
+Starfall download https://github.com/travis-ogfn/Starfall-dll/releases/tag/Starfall
